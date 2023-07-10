@@ -1,0 +1,25 @@
+.array-container {
+    position: absolute;
+    /* top: 50vh; */
+    left: 100px;
+    /* display: flex;
+    justify-content: center;
+    align-self: center; */
+}
+
+.array-bar {
+    width: 5.4px;
+    /* height: 30px; */
+    background-color: white;
+    display: inline-block;
+    margin: 0 .7px;
+}
+
+.generate-btn{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+
+}
